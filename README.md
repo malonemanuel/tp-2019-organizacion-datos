@@ -20,6 +20,6 @@ Se debe tener el set de datos provisto por la materia en un directorio anterior 
 Los sets de datos se encuentran en este [link](https://drive.google.com/drive/folders/1-7ACCWhS3sWVh0vU273YwbS74WmzEhLa)
 
 
-Link de informe : [TP1]() 
+Link de informe : [https://docs.google.com/document/d/1lnzfcWNXN_wup9s-KiYrw4FOkRNnfumJP-rAbmX1hKU/edit?usp=sharing]() 
 
 
